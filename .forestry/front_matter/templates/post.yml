@@ -1,0 +1,48 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: author
+  label: author
+  default:
+  - Wildan Fauzy
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: draft
+  label: draft
+- type: textarea
+  name: excerpt
+  label: excerpt
+pages:
+- src/content/akhirnya-mandi.md
+- src/content/bangun-dari-mimpi.md
+- src/content/cara-memasang-instant-click-di-jekyll.md
+- src/content/jalan-jalan-ke-gunung-ciwaru.md
+- src/content/jalan-jalan-ke-talaga.md
+- src/content/kembali-ke-bandung.md
+- src/content/kembali-ke-rumah.md
+- src/content/makan-indomie-ketika-hujan.md
+- src/content/malam-minggu-atau-sabtu-malam.md
+- src/content/mencoba-deploy-jekyll-di-surge.sh.md
+- src/content/mencoba-tema-jekflix.md
+- src/content/mendung-tapi-rasanya-panas.md
+- src/content/mengapa-menggunakan-domain-my.id.md
+- src/content/menggunakan-cdn-image-jetpack-di-jekyll.md
+- src/content/menjelang-sore.md
+- src/content/obrolan-yang-membosankan.md
+- src/content/pedoman-hidup-sehat-sesat.md
+- src/content/selamat-pagi.md
+- src/content/sepertiga-malam.md
+- src/content/tentang-menulis.md

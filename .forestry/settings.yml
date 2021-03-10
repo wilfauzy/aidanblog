@@ -1,0 +1,44 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: src/pages
+  label: pages
+  create: documents
+  match: "**/*"
+  new_doc_ext: tsx
+- type: document
+  path: src/website-config.ts
+  label: config
+- type: document
+  path: src/content/tag.yml
+  label: tags
+- type: document
+  path: src/content/author.yml
+  label: author
+- type: directory
+  path: src/content
+  label: post
+  create: documents
+  match: "**/*"
+  exclude: author.yml tag.yml
+  new_doc_ext: md
+  templates:
+  - post
+upload_dir: src/content/img
+public_path: ''
+front_matter_path: img
+use_front_matter_path: true
+file_template: ":filename:"
+build:
+  preview_env:
+  - PATH_PREFIX=/
+  preview_output_directory: public
+  install_dependencies_command: npm install
+  preview_docker_image: node:10
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: npm run forestry:preview
