@@ -33,8 +33,8 @@ export const Footer: React.FC = () => {
             </a>
           )}
 
-          <a href="https://github.com/wilfauzy" target="_blank" rel="noopener noreferrer">
-            Github
+          <a href="https://www.wildanfauzy.com" target="_blank" rel="noopener noreferrer">
+            Website
           </a>
 
           <a href="/rss.xml">RSS</a>
