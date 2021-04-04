@@ -87,8 +87,5 @@ module.exports = {
         siteSpeedSampleRate: 10,
       },
     },
-    {
-      resolve: `gatsby-plugin-gatsby-cloud`,
-    }, 
   ],
 };
