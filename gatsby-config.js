@@ -89,3 +89,5 @@ module.exports = {
     },
   ],
 };
+// In your gatsby-config.js
+plugins: [`gatsby-plugin-gatsby-cloud`]
