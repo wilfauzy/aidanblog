@@ -20,6 +20,9 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-gatsby-cloud`,
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'content',
