@@ -54,7 +54,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'id',
-  siteUrl: 'https://www.aidanblog.com',
+  siteUrl: 'https://aidanblog.com',
   facebook: 'https://www.facebook.com/wilfauzy',
   twitter: 'https://twitter.com/wilfauzy',
   showSubscribe: true,
