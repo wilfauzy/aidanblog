@@ -30,13 +30,11 @@ Sesampai disana keadaan ditutupi oleh kabut karena setelah hujan turun kabut, ti
 
 Tidak lupa memesan kopi indocafe yang cepat dingin dan sisa rokok gudang baru tiga batang membuat cuaca dingin bisa dikompromi.
 
-<center><video muted autoplay controls>
-    <source src="https://aidanblog.com/img/panyawenyan.mp4" type="video/mp4">
-</video></center>
+<center><video muted autoplay controls> <source src="https://wildanfauzy.com/img/panyawenyan.mp4" type="video/mp4"> </video></center>
 
 Sebahis duhur dan suasana semakin terang akhirnya melangkah menaiki anak tangga ke puncak untuk melihat pemandangan yang lebih luas alhasil dengkul kaki mau copot dan nafas semakin ngos-ngosan, maklum saja hobi saya di rumah adalah rebahan wkwkkw.
 
-![](https://aidanblog.com/img/puncak.jpg)
+![](/puncak.jpg)
 
 Hari semakin sore dan akhirnya memutuskan pulang ke rumah, namun sialnya baru saja jalan hujan turun sangat deras, akhirnya berhenti untuk menggunakan jas hujan, teman saya menggunakan atasan jas hujan dan saya celana jas hujan, singkat cerita sampai di masjid agung maja untuk solat dan mencari yang hangat-hangat.
 
