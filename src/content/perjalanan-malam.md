@@ -16,7 +16,7 @@ Ada satu atau dua alasan mengapa harus pulang ke rumah, pertama adalah masalah e
 
 Hal yang bikin kesel adalah uang di atm tidak bisa diambil, nelpon custumer servis panjang lebar ujung2 nya harus ke kantor cabang mengurus disana.
 
-![](/marvin-meyer-794521-unsplash.jpg)
+![](img/marvin-meyer-794521-unsplash.jpg)
 
 Seperti hal klasik pada umumnya membawa ktp, kartun atm dan buku tabungan, karena hanya membawa kartu atm, dab buku tabungan tertinggal di rumah, terpaksa mau tidak mau.
 
