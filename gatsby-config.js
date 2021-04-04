@@ -1,5 +1,3 @@
-// In your gatsby-config.js
-plugins: [`gatsby-plugin-gatsby-cloud`]
 /* eslint-disable @typescript-eslint/no-var-requires */
 const path = require('path');
 
