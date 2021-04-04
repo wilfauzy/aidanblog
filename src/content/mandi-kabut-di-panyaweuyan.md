@@ -34,7 +34,7 @@ Tidak lupa memesan kopi indocafe yang cepat dingin dan sisa rokok gudang baru ti
 
 Sebahis duhur dan suasana semakin terang akhirnya melangkah menaiki anak tangga ke puncak untuk melihat pemandangan yang lebih luas alhasil dengkul kaki mau copot dan nafas semakin ngos-ngosan, maklum saja hobi saya di rumah adalah rebahan wkwkkw.
 
-![](/puncak.jpg)
+![](img/puncak.jpg)
 
 Hari semakin sore dan akhirnya memutuskan pulang ke rumah, namun sialnya baru saja jalan hujan turun sangat deras, akhirnya berhenti untuk menggunakan jas hujan, teman saya menggunakan atasan jas hujan dan saya celana jas hujan, singkat cerita sampai di masjid agung maja untuk solat dan mencari yang hangat-hangat.
 
