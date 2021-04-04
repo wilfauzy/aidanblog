@@ -20,9 +20,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-gatsby-cloud`,
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'content',
@@ -90,5 +87,8 @@ module.exports = {
         siteSpeedSampleRate: 10,
       },
     },
+    {
+      resolve: `gatsby-plugin-gatsby-cloud`,
+    }, 
   ],
 };
