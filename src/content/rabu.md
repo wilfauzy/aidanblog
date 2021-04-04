@@ -4,8 +4,8 @@ author:
 title: Rabu
 tags:
 - catatan
-image: img/testimg2.jpg
-date: 2020-10-27T17:00:00Z
+image: img/alex-knight-326705-unsplash.jpg
+date: 2020-10-27T17:00:00.000+00:00
 draft: false
 excerpt: entah mengapa hari rabu sejak pergantian hari
 
