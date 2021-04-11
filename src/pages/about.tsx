@@ -60,7 +60,7 @@ const About: React.FC = () => (
                   Hello there! <br /> I'm <a href="https://a.idan.my.id">@WilFauzy</a>
                 </h5>
                 <p>
-                  Perkenalkan nama saya Wildan Fauzy atau panggil saja idan, membuat coretan di blog ini dengan hugo, menulis catatan sehari-hari untuk mengunci ingatan, terima kasih sudah mampir jangan lupa minum air setiap hari.
+                  Perkenalkan nama saya Wildan Fauzy atau panggil saja idan, membuat coretan di blog ini dengan gatsby dan tema casper v3 menggunakan cloudflare pages, menulis catatan sehari-hari untuk mengunci ingatan, terima kasih sudah mampir jangan lupa minum air setiap hari.
                 </p>
               </div>
             </PostFullContent>
