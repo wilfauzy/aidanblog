@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Aidan Blog ',
     description: 'Stories That Matters',
-    siteUrl: 'https://www.aidanblog.com', // full path to blog - no ending slash
+    siteUrl: 'https://aidanblog.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://www.aidanblog.com',
+        siteUrl: 'https://aidanblog.com',
       },
     },
     'gatsby-plugin-typescript',
