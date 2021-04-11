@@ -15,8 +15,6 @@ interface IndexProps {
 const IndexLayout: React.FC<IndexProps> = props => {
   return (
     <div className={props.className}>
-      <Helmet> <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bfcdd92dcaa94da5856cd01c8d9aa87f"}'></script> 
-      </Helmet> 
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
       </Helmet>
@@ -502,3 +500,6 @@ const IndexLayout: React.FC<IndexProps> = props => {
 };
 
 export default IndexLayout;
+
+<Helmet> <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bfcdd92dcaa94da5856cd01c8d9aa87f"}'></script> 
+</Helmet> 
