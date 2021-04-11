@@ -36,7 +36,6 @@ export const Footer: React.FC = () => {
           <a href="https://www.wildanfauzy.com" target="_blank" rel="noopener noreferrer">
             Website
           </a>
-
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
       </div>
