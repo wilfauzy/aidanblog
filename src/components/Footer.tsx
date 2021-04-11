@@ -99,4 +99,3 @@ const SiteFooterNav = styled.nav`
     }
   }
 `;
-<Helmet> <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bfcdd92dcaa94da5856cd01c8d9aa87f"}'></script> </Helmet> 
