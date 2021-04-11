@@ -38,6 +38,7 @@ export const Footer: React.FC = () => {
           </a>
 
           <a href="/rss.xml">RSS</a>
+          <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bfcdd92dcaa94da5856cd01c8d9aa87f"}'></script><!-- End Cloudflare Web Analytics -->
         </SiteFooterNav>
       </div>
     </footer>
@@ -101,4 +102,3 @@ const SiteFooterNav = styled.nav`
   }
 `;
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bfcdd92dcaa94da5856cd01c8d9aa87f"}'></script><!-- End Cloudflare Web Analytics -->
